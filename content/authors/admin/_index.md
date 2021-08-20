@@ -6,21 +6,23 @@ title: Zhiqiu Jiang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: CICS @ UMass Amherst
+  url: https://www.cics.umass.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data informatics, HCI, and smart cities.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data-Smart Transportation
+- Urban Data Science and Informatics
+- Spatial Analysis
+- Travel Behavior
+- Human-Computer Interaction
 
 # Education to show in About widget
 education:
