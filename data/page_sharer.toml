@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "twitter"
-  url = "https://www.facebook.com/zhiqiu.jiang"
+  url = ""
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
