@@ -19,23 +19,22 @@ bio: My research interests include data informatics, HCI, and smart cities.
 # Interests to show in About widget
 interests:
 - Data-Smart Transportation
-- Urban Data Science and Informatics
-- Spatial Analysis
+- Data Science and Informatics
 - Travel Behavior
 - Human-Computer Interaction
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Constructed Environment (2021)
+    institution: University of Virginia
+    GPA: 3.95/4
+  - course: Master of Urban Planning (2016)
+    institution: SUNY Buffalo
+    GPA: 3.89/4
+  - course: BEng in Urban Planning (2014)
+    institution: Sichuan University
+    GPA: 3.82/4
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
